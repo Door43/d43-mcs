@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcs:home|Door43 (mcs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcs|d43-mcs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcs/archive/master.zip|d43-mcs.zip]]
+
+**Recent Changes**
+{{changes>ns = mcs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcs|Ethnologue data]]
+
